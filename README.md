@@ -15,6 +15,7 @@ A biblical presentation of the Gospel that is faithful to Scripture, uncompromis
 - [What Happens Next?](#what-happens-next)
 - [A Shorter Presentation](#a-shorter-presentation)
 - [Gospel FAQ](#gospel-faq)
+- [Stop Saying "Just Believe": What Πιστεύω Really Means](#Stop-Saying-Just-Believe-What-Pisteuo-Really-Means)
 
 ---
 
@@ -345,6 +346,74 @@ Scripture does not give us exhaustive details, but it does affirm God's justice 
 ### 20. "What about Old Testament believers—how were they saved?"
 
 They were saved the same way we are—by grace through faith in the promises of God, looking forward to the coming Messiah (Romans 4:1-8; Hebrews 11). Abraham believed God, and it was counted to him as righteousness (Genesis 15:6). The object of their faith was Christ, though they saw Him from a distance. There has always been only one way of salvation: through the blood of Jesus Christ, applied to all who trust in God's provision.
+
+---
+
+## Stop Saying "Just Believe": What Πιστεύω Really Means
+
+### The Modern Problem
+
+John 3:16 is quoted as the ultimate evangelistic slogan: "Just believe in Jesus." But "believe" in English now means little more than *mental agreement*—assent to facts without life-change. That is BDAG sense 1 of πιστεύω (*consider something true*). If that's all John 3:16 requires, then the demons in James 2:19 are saved—they believe God is one and tremble. Clearly, John means more.
+
+### The Lexical Range
+
+The Greek verb πιστεύω (pisteuō) carries three main senses (BDAG):
+
+1. **To consider something true, to believe** (mental assent).
+2. **To entrust oneself to someone, rely on, commit to** (relational trust).
+3. **To be so confident in someone or something that one acts accordingly**; to trust with resulting obedience.
+
+Modern preaching often collapses πιστεύω into sense 1. But the Gospel of John consistently uses it in senses 2–3.
+
+### Why Sense 1 Is Ruled Out
+
+#### John 3:36 — Believing vs. Disobeying
+
+The one who *believes* (ὁ πιστεύων) in the Son has eternal life; the one who *disobeys* (ὁ ἀπειθῶν) the Son will not see life. If πιστεύω meant only intellectual assent, John would have contrasted it with ἀπιστέω (*disbelieve*). Instead, he contrasts it with ἀπειθέω (*disobey, refuse to be persuaded*). Saving faith is *volitional trust* that results in submission to Christ as Lord.
+
+#### John 2:23–25 — False "Belief" Exposed
+
+Many "believed" in Jesus because of miracles, but Jesus did not entrust Himself to them. Their "belief" was shallow assent (sense 1). John highlights this to show it does not save.
+
+#### John 1:12 — Believing = Receiving
+
+Belief here is not bare recognition but receiving Christ Himself—entrustment (sense 2).
+
+#### James 2:19 — Demons Believe
+
+They know true facts (sense 1). Yet their "belief" damns them.
+
+### Hebrews 11: Faith as Living on Future Promises
+
+Hebrews 11 shows what saving faith looks like in practice. It is not passive agreement but living as if God's promises are already reality:
+
+> "Faith is the assurance of things hoped for, the conviction of things not seen" (Heb. 11:1).
+
+- **Noah** built the ark before rain ever fell (11:7).
+- **Abraham** offered Isaac, convinced God would raise him (11:17–19).
+- **Moses** chose suffering with God's people over the treasures of Egypt, *looking to the reward* (11:24–26). He acted now based on future certainty.
+- The saints "greeted [the promises] from afar" and lived as strangers in the present world (11:13).
+
+That is πιστεύω: faith that orders life *now* because the promised future is certain.
+
+### What About Repentance?
+
+True πιστεύω *includes* μετάνοια (repentance). You cannot entrust yourself to Christ as Savior while refusing Him as Lord. Repentance is not a separate second step—it is the flip side of faith. To believe *into* Christ (εἰς αὐτόν) is to turn *from* all rival lords. Mark 1:15 binds them: "Repent and believe the gospel." They are not two conditions, but one posture: turning from sin *to* Christ in total trust.
+
+### John 3:16 Re-examined
+
+The phrase is ὁ πιστεύων εἰς αὐτόν — "the one believing *into* Him." The preposition εἰς shows movement, reliance, entrusting. It's not recognition but staking your life on Christ.
+
+### The Real Force of Πιστεύω
+
+- Not bare agreement.
+- Not vague optimism.
+- **Entrusting yourself to Christ.**
+- **Living now as if God's promises are already fulfilled.**
+
+When Jesus says "whoever believes," He is not inviting mental nods. He is *commanding* you to entrust yourself to Him—body, will, future—and to live *now* as though His promise of eternal life is already in your hand.
+
+**That is saving faith.**
 
 ---
 
